@@ -176,7 +176,7 @@
   <build>
     <resources>
       <resource>
-        <directory>src/main/resources</directory>
+        <directory>src/min/resources</directory>
         <filtering>true</filtering>
       </resource>
     </resources>
