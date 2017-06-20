@@ -23,7 +23,7 @@ import java.util.Map;
 public class JpushClientUtil {
 
     //汇中贷生产环境配置
-    private final static String appKey = "";        //汇中贷生产环境用
+    private final static String appKey = "";        //汇中贷生产环境用s
 
     //汇中贷生产环境配置
     private final static String masterSecret = "";  //汇中贷生产环境用
