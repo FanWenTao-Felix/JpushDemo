@@ -143,6 +143,18 @@
       <artifactId>httpcore</artifactId>
       <version>${httpclient.core.version}</version>
     </dependency>
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20170516</version>
+    </dependency>
+    <!-- alibaba fastjson start -->
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>fastjson</artifactId>
+      <version>1.2.3</version>
+    </dependency>
+    <!-- alibaba fastjson start -->
   </dependencies>
 
   <!-- 开发者信息 -->
