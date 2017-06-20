@@ -23,10 +23,10 @@ import java.util.Map;
 public class JpushClientUtil {
 
     //汇中贷生产环境配置
-    private final static String appKey = "26e3657b3d2cdb82078c66e7";        //汇中贷生产环境用
+    private final static String appKey = "";        //汇中贷生产环境用
 
     //汇中贷生产环境配置
-    private final static String masterSecret = "b5b9bf8d372814df3bfccef9";  //汇中贷生产环境用
+    private final static String masterSecret = "";  //汇中贷生产环境用
 
     private static JPushClient jPushClient = new JPushClient(masterSecret,appKey);
 
